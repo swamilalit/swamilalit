@@ -5,7 +5,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 
 ### About
-Interesed in data science field. There's nothing better than extracting insights, visualise and making better decisions with data. Switched professional career from chemical engineering (IIT Delhi Graduated 2019) to data science. I participate in competitions at Kaggle and do projects apart from work which I am passionate about.
+Interested in data science field. There's nothing better than extracting insights, visualise and making better decisions with data. Switched professional career from chemical engineering (IIT Delhi Graduated 2019) to data science. I participate in competitions at Kaggle and do projects apart from work which I am passionate about.
 
 ### Work Experience 
 I have work experience of **1.5+ years** in machine learning, statistical modeling, predictive analytics.
