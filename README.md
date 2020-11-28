@@ -5,11 +5,10 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 
 ### About
-Interested in data science field. There's nothing better than extracting insights, visualise and making better decisions with data. Switched professional career from chemical engineering (IIT Delhi Graduated 2019) to data science. I participate in competitions at Kaggle and do projects apart from work which I am passionate about.
+Currently working in Data Science Team of OLA, Bangalore. Work Experience of **1.5+ years** in solving critical business problems with the help of big data tools using different machine learning methodologies, predictive analytics and statistical modelling. There's nothing better than extracting insights, visualise and making better decisions with data. Graduated from IIT Delhi in 2019.
 
-### Work Experience 
-I have work experience of **1.5+ years** in machine learning, statistical modeling, predictive analytics.
 Worked on **Customer Experience | Platform Pricing | Data Scrapping | Driver-Partner Lifecycle Management | Allocation of Cab Supply** Projects at **OLA**.
+Projects: Worked on Customer Experience | Platform Pricing | Data Scrapping | Driver-Partner Lifecycle Management | Allocation of Cab Supply
 
 ### Programming & Tools
 <p align="left">
