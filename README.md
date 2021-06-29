@@ -1,6 +1,6 @@
 ## Hi ! Welcome to Lalit Swami GitHub Page
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 
@@ -8,7 +8,7 @@
 
 ### About Me
 ---
-Currently working in Data Science Team of OLA, Bangalore. Work Experience of **1.5+ years** in solving critical business problems with the help of big data tools using different machine learning methodologies, predictive analytics and statistical modelling. Passionate about extracting insights, visualise and help making better decisions with data. Graduated from **IIT Delhi** in 2019. 
+Currently working in Data Science Team of OLA, Bangalore. Work Experience of **2+ years** in solving critical business problems with the help of big data tools using different machine learning methodologies, predictive analytics and statistical modelling. Passionate about extracting insights, visualise and help making better decisions with data. Graduated from **IIT Delhi** in 2019. 
 
 Projects Worked On at OLA:
 <br />
