@@ -1,26 +1,41 @@
 ## Hi ! Welcome to Lalit Swami GitHub Page
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 <br />
 
 ### About Me
 ---
-Currently working in Data Science Team of OLA, Bangalore. Work Experience of **2+ years** in solving critical business problems with the help of big data tools using different machine learning methodologies, predictive analytics and statistical modelling. Passionate about extracting insights, visualise and help making better decisions with data. Graduated from **IIT Delhi** in 2019. 
+Currently working as **Data Scientist** at OLA, Bengaluru. Work Experience of **2+ years**
+in solving critical business problems with the help of big data tools using different machine learning methodologies,
+predictive analytics and statistical modelling. Deployed several trained models to production. Worked on large number of
+datasets & well equipped with mathematical concepts.
+
+Passionate about extracting insights, visualise and help making better decisions with data by asking right questions.
+Self taught data scientist who keep trying to get engage in learning and self improvement. Graduated from **IIT Delhi**
+in 2019. Looking for opportunities to collaborate on challenging projects to sharpen my skills along with expansion of
+knowledge base.
+
+<img align="right" src="images/developer.gif"/>
 
 Projects Worked On at OLA:
 <br />
-**Customer Experience** - User Category Reordering Model, User Premiumness Score (Scraped Websites), Ride Intent Mapping, Drop Suggestion, User Preference Model
+**Partner Lifecycle Management:** Digitization- Automate Valid Data Capturing, Driver Churn Models, Driver Scores
 <br />
-**Platform Pricing** - Underpriced Trips, Loss of Utilisation, Peak Simulation of Auto & Cabs
+**Dynamic Pricing:** Peak Simulation of Auto & Cabs, Underpriced Trips, Loss of Utilisation
 <br />
-**Partner Lifecycle Management** - Driver Churn Models, Driver Scores
+**Web Scraping:** User Premiumness Score, Used Cars
 <br />
-**Allocation of Cab Supply** - Effective Supply in Allocation of City Cabs
+**Customer Experience:** User Category Reordering Model, Ride Intent Mapping, Drop Suggestion, User Preference Model
+<br />
+**Allocation:** - Effective Supply in Cab Allocation
+<br />
 
-<br />
+
 
 ### Programming & Tools
 ---
@@ -40,31 +55,45 @@ Projects Worked On at OLA:
 	<img title="Hive" src="images/Apache_Hive.svg" width="60" height="40" />
 	<img title="AWS" src="images/aws.svg" width="50" height="40" />
 	<img title="MicroStrategy" src="images/microstrategy.svg" width="110" height="40" />
-	
+
 </p>
 
 <br />
 
 
-### Github Projects
----
+[comment]: <> (### Github Projects)
 
-### **Machine Learning Classification Problems**
+[comment]: <> (---)
 
-<img align="left" width="250" height="150" img src="images/spotify.png">**[Predicting Spotify Songs Likes/Dislikes](https://github.com/swamilalit/predicting_spotify_songs)**
-<br />
-Working on Predicting User Choices in their Songs. 
-<br />
-**[Predicting Spotify Songs Popularity](https://github.com/swamilalit/predicting_spotify_popularity)**
-<br />
-Working on Predicting Users Songs Popularity.
-<br />
-<br />
-<br />
-<br />
+[comment]: <> (### **Machine Learning Classification Problems**)
+
+[comment]: <> (<img align="left" width="250" height="150" img src="images/spotify.png">**[Predicting Spotify Songs Likes/Dislikes]&#40;https://github.com/swamilalit/predicting_spotify_songs&#41;**)
+
+[comment]: <> (<br />)
+
+[comment]: <> (Working on Predicting User Choices in their Songs.)
+
+[comment]: <> (<br />)
+
+[comment]: <> (**[Predicting Spotify Songs Popularity]&#40;https://github.com/swamilalit/predicting_spotify_popularity&#41;**)
+
+[comment]: <> (<br />)
+
+[comment]: <> (Working on Predicting Users Songs Popularity.)
+
+[comment]: <> (<br />)
+
+[comment]: <> (<br />)
+
+[comment]: <> (<br />)
+
+[comment]: <> (<br />)
 
 
 ### About Collaboration & Work Opportunities
 ---
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on [Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/).
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel
+free to contact me
+on [Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)
+.
 
