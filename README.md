@@ -10,10 +10,10 @@
 
 ### About Me
 ---
-Currently working as **Data Scientist** at OLA, Bengaluru. Work Experience of **2+ years**
+Currently working as **Data Scientist** at PayU Finance, Gurgaon. Work Experience of **2+ years**
 in solving critical business problems with the help of big data tools using different machine learning methodologies,
 predictive analytics and statistical modelling. Deployed several trained models to production. Worked on large number of
-datasets & well equipped with mathematical concepts.
+datasets & well equipped with mathematical concepts. Previously worked as Data Scientist in OLA, Bengaluru.
 
 Passionate about extracting insights, visualise and help making better decisions with data by asking right questions.
 Self taught data scientist who keep trying to get engage in learning and self improvement. Graduated from **IIT Delhi**
