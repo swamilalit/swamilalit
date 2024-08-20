@@ -10,31 +10,15 @@
 
 ### About Me
 ---
-Currently working as **Data Scientist** at PayU Finance, Gurgaon. Work Experience of **2+ years**
-in solving critical business problems with the help of big data tools using different machine learning methodologies,
-predictive analytics and statistical modelling. Deployed several trained models to production. Worked on large number of
-datasets & well equipped with mathematical concepts. Previously worked as Data Scientist in OLA, Bengaluru.
+Worked as a **Lead Data Scientist** at PayU Finance, Gurgaon, with over 5 years of experience in FinTech and RideTech. My work focuses on solving critical business problems using big data tools and machine learning methodologies. I've built and deployed several impactful data science solutions, leading end-to-end data pipelines from conceptualization to production.
 
-Passionate about extracting insights, visualise and help making better decisions with data by asking right questions.
-Self taught data scientist who keep trying to get engage in learning and self improvement. Graduated from **IIT Delhi**
-in 2019. Looking for opportunities to collaborate on challenging projects to sharpen my skills along with expansion of
-knowledge base.
+Previously, I contributed as a Senior Data Scientist at OLA, Bengaluru, where I worked on dynamic pricing, customer and driver experience enhancements, and large-scale web scraping projects. I’m passionate about extracting insights from data and helping organizations make better decisions by asking the right questions.
+
+I graduated from **IIT Delhi** with a B.Tech. in Chemical Engineering and a Minor in Technologies for Sustainable Rural Development. I’m a self-taught data scientist who is continuously learning and improving.
+
+I'm always looking for opportunities to collaborate on challenging projects to expand my knowledge base and sharpen my skills.
 
 <img align="right" src="images/developer.gif"/>
-
-Projects Worked On at OLA:
-<br />
-**Partner Lifecycle Management:** Digitization- Automate Valid Data Capturing, Driver Churn Models, Driver Scores
-<br />
-**Dynamic Pricing:** Peak Simulation of Auto & Cabs, Underpriced Trips, Loss of Utilisation
-<br />
-**Web Scraping:** User Premiumness Score, Used Cars
-<br />
-**Customer Experience:** User Category Reordering Model, Ride Intent Mapping, Drop Suggestion, User Preference Model
-<br />
-**Allocation:** - Effective Supply in Cab Allocation
-<br />
-
 
 
 ### Programming & Tools
@@ -60,16 +44,13 @@ Projects Worked On at OLA:
 
 <br />
 
+### Github Projects)
+---
+### **Machine Learning Classification Problems**)
 
-[comment]: <> (### Github Projects)
+<img align="left" width="250" height="150" img src="images/spotify.png">**[Predicting Spotify Songs Likes/Dislikes]&#40;https://github.com/swamilalit/predicting_spotify_songs&#41;**)
 
-[comment]: <> (---)
-
-[comment]: <> (### **Machine Learning Classification Problems**)
-
-[comment]: <> (<img align="left" width="250" height="150" img src="images/spotify.png">**[Predicting Spotify Songs Likes/Dislikes]&#40;https://github.com/swamilalit/predicting_spotify_songs&#41;**)
-
-[comment]: <> (<br />)
+<br />
 
 [comment]: <> (Working on Predicting User Choices in their Songs.)
 
