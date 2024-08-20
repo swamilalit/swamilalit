@@ -1,18 +1,18 @@
 ## Hi ! Welcome to Lalit Swami GitHub Page
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
+<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
+-->
 <br />
 
 ### About Me
 ---
-Worked as a **Lead Data Scientist** at PayU Finance, Gurgaon, with over 5 years of experience in FinTech and RideTech. My work focuses on solving critical business problems using big data tools and machine learning methodologies. I've built and deployed several impactful data science solutions, leading end-to-end data pipelines from conceptualization to production.
+Worked as a **Lead Data Scientist** at PayU Finance, Gurgaon, with **5+ years** of experience in FinTech and RideTech. My work focuses on solving critical business problems using big data tools and machine learning methodologies. I've built and deployed several impactful data science solutions, leading end-to-end data pipelines from conceptualization to production.
 
-Previously, I contributed as a Senior Data Scientist at OLA, Bengaluru, where I worked on dynamic pricing, customer and driver experience enhancements, and large-scale web scraping projects. I’m passionate about extracting insights from data and helping organizations make better decisions by asking the right questions.
+Previously, I contributed as a Data Scientist at OLA, Bengaluru, where I worked on dynamic pricing, customer and driver experience enhancements, and large-scale web scraping projects. I’m passionate about extracting insights from data and helping organizations make better decisions by asking the right questions.
 
 I graduated from **IIT Delhi** with a B.Tech. in Chemical Engineering and a Minor in Technologies for Sustainable Rural Development. I’m a self-taught data scientist who is continuously learning and improving.
 
@@ -46,32 +46,17 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <br />
 
-### Github Projects)
+### GitHub Projects
 ---
-### **Machine Learning Classification Problems**)
 
-<img align="left" width="250" height="150" img src="images/spotify.png">**[Predicting Spotify Songs Likes/Dislikes]&#40;https://github.com/swamilalit/predicting_spotify_songs&#41;**)
+### **Project 1**
 
-<br />
+<img align="left" width="250" height="150" src="images/spotify.png" />
 
-[comment]: <> (Working on Predicting User Choices in their Songs.)
+**[Title](https://github.com/swamilalit/swamilalit)**
+<p> A short description about the project. </p>
 
-[comment]: <> (<br />)
-
-[comment]: <> (**[Predicting Spotify Songs Popularity]&#40;https://github.com/swamilalit/predicting_spotify_popularity&#41;**)
-
-[comment]: <> (<br />)
-
-[comment]: <> (Working on Predicting Users Songs Popularity.)
-
-[comment]: <> (<br />)
-
-[comment]: <> (<br />)
-
-[comment]: <> (<br />)
-
-[comment]: <> (<br />)
-
+<br clear="left"/>
 
 ### About Collaboration & Work Opportunities
 ---
