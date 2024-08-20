@@ -25,11 +25,11 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 ---
 <p align="left">
 	<img title="Python" src="images/python.svg" width="60" height="40" />
-	<img title="R" src="images/r-lang.svg" width="60" height="40" />
 	<img title="MySQL" src="images/mysql.svg" width="60" height="40" />
-	<img title="MongoDB" src="images/mongodb.svg" width="80" height="40" />
-	<img title="Git" src="images/git.svg" width="70" height="40" />
 	<img title="Jupyter" src="images/jupyter.svg" width="70" height="40" />
+	<img title="Git" src="images/git.svg" width="70" height="40" />
+	<img title="AWS" src="images/aws.svg" width="50" height="40" />
+	<img title="GPT" src="images/chat-gpt.png" width="50" height="40" />
 </p>
 
 
@@ -37,8 +37,9 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 	<img title="Hadoop" src="images/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="images/apache_spark.svg" width="80" height="40" />
 	<img title="Hive" src="images/Apache_Hive.svg" width="60" height="40" />
-	<img title="AWS" src="images/aws.svg" width="50" height="40" />
 	<img title="MicroStrategy" src="images/microstrategy.svg" width="110" height="40" />
+ 	<img title="MongoDB" src="images/mongodb.svg" width="80" height="40" />
+	<img title="R" src="images/r-lang.svg" width="60" height="40" />
 
 </p>
 
