@@ -32,6 +32,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 	<img title="GPT" src="images/chat-gpt.png" width="50" height="40" />
 	<img title="Google" src="images/google.png" width="50" height="40" />
 	<img title="Microsoft" src="images/microsoft.png" width="50" height="40" />
+	<img title="Docker" src="images/docker.png" width="50" height="40" />
 </p>
 
 
@@ -40,8 +41,11 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 	<img title="Spark" src="images/apache_spark.svg" width="80" height="40" />
 	<img title="Hive" src="images/Apache_Hive.svg" width="60" height="40" />
 	<img title="R" src="images/r-lang.svg" width="60" height="40" />
-	<img title="MicroStrategy" src="images/microstrategy.svg" width="110" height="40" />
- 	<img title="MongoDB" src="images/mongodb.svg" width="80" height="40" />
+ 	<img title="PowerBI" src="images/power-bi.png" width="60" height="40" />
+	<img title="Streamlit" src="images/streamlit.png" width="60" height="40" />
+	<img title="FastAPI" src="images/fastapi.png" width="60" height="40" />
+<!-- 	<img title="MicroStrategy" src="images/microstrategy.svg" width="110" height="40" />
+ 	<img title="MongoDB" src="images/mongodb.svg" width="80" height="40" /> -->
 </p>
 
 <br />
