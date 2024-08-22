@@ -2,10 +2,10 @@
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-7D4698?style=flat&logo=Tor-Browser&logoColor=white)](https://swamilalit.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
 ![Profile views](https://komarev.com/ghpvc/?username=swamilalit&label=Profile%20views&color=blue&style=flat)
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
+[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
 -->
 <br />
@@ -57,7 +57,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Predictive Modeling**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -68,7 +68,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Segmentation**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -77,7 +77,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Recommendation Engine**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -86,7 +86,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Large Language Models (LLMs)**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -97,7 +97,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Computer Vision**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -106,7 +106,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Deep Learning**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -115,7 +115,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Web Scraping**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -124,7 +124,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Speech Recognition**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
@@ -133,7 +133,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Reinforcement Learning**
 
-<img align="left" width="250" height="150" src="images/spotify.png" />
+<img align="left" width="250" height="150" src="images/predictive_modeling_image.png" />
 
 **[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
