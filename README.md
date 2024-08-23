@@ -59,27 +59,29 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="250" height="250" src="images/machinelearning.jpeg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 <br clear="left"/>
 
+<!--
 ### **Segmentation**
 
 <img align="left" width="250" height="250" src="images/segmentation.jpeg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
+-->
 
 ### **Recommendation Engine**
 
 <img align="left" width="250" height="250" src="images/recomm.jpeg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
@@ -88,7 +90,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="250" height="250" src="images/llm.jpeg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 **● [Title](https://github.com/swamilalit/swamilalit)**
@@ -99,7 +101,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="250" height="250" src="images/cv.jpeg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
@@ -108,25 +110,27 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="250" height="250" src="images/deeplearning.jpeg" />
 
-**● [PastaIQ-TypeDetection](https://github.com/swamilalit/PastaIQ-TypeDetection)**
+**[PastaIQ-TypeDetection](https://github.com/swamilalit/PastaIQ-TypeDetection)**
 <p> An advanced image classification model that identifies distinct types of pasta from the provided images. </p>
 
 <br clear="left"/>
 
+<!--
 ### **Web Scraping**
 
 <img align="left" width="250" height="250" src="images/webscraping.png" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
+-->
 
 ### **Speech Recognition**
 
 <img align="left" width="250" height="250" src="images/speechrecognition.jpg" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
@@ -135,10 +139,11 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="250" height="250" src="images/predictive_modeling_image.png" />
 
-**● [Title](https://github.com/swamilalit/swamilalit)**
+**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 
 <br clear="left"/>
+-->
 
 ### About Collaboration & Work Opportunities
 ---
