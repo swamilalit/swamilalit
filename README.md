@@ -57,13 +57,14 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 ### **Predictive Modeling**
 
-<img align="left" width="150" height="150" src="images/machinelearning.jpeg" />
+<img align="left" width="150" height="200" src="images/machinelearning.jpeg" />
 
 **[AcademicScorePredictor](https://github.com/swamilalit/AcademicScorePredictor)**
-<p>A comprehensive machine learning pipeline designed to predict O-level scores for students. Leveraging advanced tools for hyperparameter tuning, deployment, and model management, it aims to provide accurate insights to help educators and students enhance academic performance.</p>
+<p>A machine learning pipeline designed to predict student scores, leveraging hyperparameter tuning and deployment to provide insights that help educators and students enhance academic performance.</p>
 
-**[TravelReviewSentiment]([TravelReviewSentiment](https://github.com/swamilalit/TravelReviewSentiment))**
-<p>An end-to-end machine learning solution for classifying TripAdvisor reviews into positive or negative sentiments. Built with PyTorch and powered by DistilBERT, this project delivers efficient and accurate sentiment analysis tailored for the travel industry.</p>
+**[TravelReviewSentiment](https://github.com/swamilalit/TravelReviewSentiment)**
+<p>An end-to-end machine learning solution for classifying TripAdvisor reviews into positive or negative sentiments. Built with PyTorch and powered by DistilBERT.</p>
+
 <br clear="left"/>
 
 <!--
@@ -95,8 +96,8 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <!--**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
-<br clear="left"/>
 -->
+<br clear="left"/>
 
 ### **Computer Vision**
 
@@ -144,7 +145,6 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 <p>A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles.</p>
 
 <br clear="left"/>
--->
 
 ### About Collaboration & Work Opportunities
 ---
