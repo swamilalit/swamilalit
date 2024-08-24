@@ -102,8 +102,8 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/cv.jpeg" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
+**[Hand2CursorTech](https://github.com/swamilalit/Hand2CursorTech)**
+<p> A vision-based system for controlling your computer cursor using hand gestures. Leveraging Python, OpenCV, Mediapipe, and PyAutoGUI for real-time gesture recognition and cursor navigation. </p>
 
 <br clear="left"/>
 
