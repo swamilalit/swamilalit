@@ -131,8 +131,8 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/speechrecognition.jpg" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
+**[Speech2Math](https://github.com/swamilalit/Speech2Math)**
+<p> Convert spoken mathematical expressions into symbolic equations effortlessly. This Python-based tool supports various operations like integrals and derivatives, with an intuitive Streamlit interface for easy interaction. </p>
 
 <br clear="left"/>
 
