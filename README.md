@@ -140,8 +140,8 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/predictive_modeling_image.png" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
+**[PathFinderRL](https://github.com/swamilalit/PathfinderRL)**
+<p> A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles. </p>
 
 <br clear="left"/>
 -->
