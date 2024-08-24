@@ -59,12 +59,11 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/machinelearning.jpeg" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
-<!--
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
--->
+**[AcademicScorePredictor](https://github.com/swamilalit/AcademicScorePredictor)**
+<p>A comprehensive machine learning pipeline designed to predict O-level scores for students. Leveraging advanced tools for hyperparameter tuning, deployment, and model management, it aims to provide accurate insights to help educators and students enhance academic performance.</p>
+
+**[TravelReviewSentiment]([TravelReviewSentiment](https://github.com/swamilalit/TravelReviewSentiment))**
+<p>An end-to-end machine learning solution for classifying TripAdvisor reviews into positive or negative sentiments. Built with PyTorch and powered by DistilBERT, this project delivers efficient and accurate sentiment analysis tailored for the travel industry.</p>
 <br clear="left"/>
 
 <!--
@@ -82,8 +81,8 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/recomm.jpeg" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
+**[TopBitesDiscoverer](https://github.com/swamilalit/TopBitesDiscoverer)**
+<p>A web application designed to help users find the best food options. It uses advanced filtering to recommend top-rated dishes based on reviews, wishlists, and pricing per pax.</p>
 
 <br clear="left"/>
 
@@ -91,19 +90,20 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 
 <img align="left" width="150" height="150" src="images/llm.jpeg" />
 
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
+**[RAGforRecruiter](https://github.com/swamilalit/RAGforRecruiter)**
+<p>A Retrieval-Augmented Generation app that enables HRs to chat with applicants' resumes. Enhance your recruitment process with AI-driven insights and seamless resume analysis.</p>
 
-**[Title](https://github.com/swamilalit/swamilalit)**
+<!--**[Title](https://github.com/swamilalit/swamilalit)**
 <p> A short description about the project. </p>
 <br clear="left"/>
+-->
 
 ### **Computer Vision**
 
 <img align="left" width="150" height="150" src="images/cv.jpeg" />
 
 **[Hand2CursorTech](https://github.com/swamilalit/Hand2CursorTech)**
-<p> A vision-based system for controlling your computer cursor using hand gestures. Leveraging Python, OpenCV, Mediapipe, and PyAutoGUI for real-time gesture recognition and cursor navigation. </p>
+<p>A vision-based system for controlling your computer cursor using hand gestures. Leveraging Python, OpenCV, Mediapipe, and PyAutoGUI for real-time gesture recognition and cursor navigation. </p>
 
 <br clear="left"/>
 
@@ -112,7 +112,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 <img align="left" width="150" height="150" src="images/deeplearning.jpeg" />
 
 **[PastaIQ-TypeDetection](https://github.com/swamilalit/PastaIQ-TypeDetection)**
-<p> An advanced image classification model that identifies distinct types of pasta from the provided images. </p>
+<p>An advanced image classification model that identifies distinct types of pasta from the provided images.</p>
 
 <br clear="left"/>
 
@@ -132,7 +132,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 <img align="left" width="150" height="150" src="images/speechrecognition.jpg" />
 
 **[Speech2Math](https://github.com/swamilalit/Speech2Math)**
-<p> Convert spoken mathematical expressions into symbolic equations effortlessly. This Python-based tool supports various operations like integrals and derivatives, with an intuitive Streamlit interface for easy interaction. </p>
+<p>Convert spoken mathematical expressions into symbolic equations effortlessly. This Python-based tool supports various operations like integrals and derivatives, with an intuitive Streamlit interface for easy interaction.</p>
 
 <br clear="left"/>
 
@@ -141,7 +141,7 @@ I'm always looking for opportunities to collaborate on challenging projects to e
 <img align="left" width="150" height="150" src="images/predictive_modeling_image.png" />
 
 **[PathFinderRL](https://github.com/swamilalit/PathfinderRL)**
-<p> A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles. </p>
+<p>A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles.</p>
 
 <br clear="left"/>
 -->
