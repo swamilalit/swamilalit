@@ -12,11 +12,24 @@
 
 ### About Me
 ---
-Worked as a **Lead Data Scientist** at PayU Finance, Gurgaon, with **5+ years** of experience in FinTech and RideTech. My work focuses on solving critical business problems using big data tools and machine learning methodologies. I've built and deployed several impactful data science solutions, leading end-to-end data pipelines from conceptualization to production.
+**Lead Data Scientist** with **6+ years of experience**, skilled in solving **high-impact business problems** across the **F&B, FinTech, and RideTech industries**. Hands-on with **big data tools, machine learning algorithms, and statistical modeling** to derive insights and drive **data-driven decisions**.  
 
-Previously, I contributed as a Data Scientist at OLA, Bengaluru, where I worked on dynamic pricing, customer and driver experience enhancements, and large-scale web scraping projects. I’m passionate about extracting insights from data and helping organizations make better decisions by asking the right questions.
+Previously contributed to **data science initiatives at PayU and OLA**, building and deploying multiple **ML models to production**. Skilled in handling **large, complex datasets**, with a solid foundation in **mathematics, web scraping, and visual storytelling** with data. Passionate about asking the right questions and building **solutions that deliver measurable business value**.  
 
-I graduated from **IIT Delhi** with a B.Tech. in Chemical Engineering and a Minor in Technologies for Sustainable Rural Development. I’m a self-taught data scientist who is continuously learning and improving.
+Executed **end-to-end ML lifecycle** from data preparation to production deployment, focusing on **scalability, performance, and real-world impact**. Built and deployed **AI solutions leveraging LLMs** to unlock business value across diverse domains. Spearheaded **automation of data pipelines and model monitoring using MLOps best practices**, significantly improving **system reliability and deployment speed**. Collaborated cross-functionally with **engineering, product, and business teams** to convert complex problems into **actionable, data-driven strategies**.  
+
+## Core Expertise
+
+- **Machine Learning & AI:** Deep Learning, NLP, Computer Vision, MLOps, Model Deployment, A/B Testing  
+- **Programming & Big Data:** Python, R, SQL, Shell Scripting, PySpark, Apache Spark, Hadoop, Airflow, Git  
+- **Cloud & DevOps:** AWS SageMaker, AWS Lambda, AWS S3, AWS EC2, AWS Redshift, Docker, Kubernetes  
+- **Generative AI:** LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, GPT Integration, AI Automation  
+- **Business Intelligence:** Data Visualization, Statistical Modeling, Predictive Analytics, KPI Optimization  
+- **Web Scraping:** Selenium, Beautiful Soup  
+
+## Education & Learning
+
+Graduated from **IIT Delhi (2019)** with a strong foundation in **data science and machine learning**. **Self-taught** and continuously expanding expertise in **AI, ML, and emerging technologies**. Passionate about tackling **challenging projects** and exploring roles that blend **problem-solving, innovation, and continuous learning**.  
 
 I'm always looking for opportunities to collaborate on challenging projects to expand my knowledge base and sharpen my skills.
 
