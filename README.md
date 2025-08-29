@@ -1,178 +1,204 @@
-## Hi ! Welcome to Lalit Swami GitHub Page
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-7D4698?style=flat&logo=Tor-Browser&logoColor=white)](https://swamilalit.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)](https://www.linkedin.com/in/lalit-swami/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:swamilalit2014@gmail.com)](mailto:swamilalit2014@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=swamilalit&label=Profile%20views&color=blue&style=flat)
-<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/@swamilalit)
-[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/)](https://www.kaggle.com/)
+# 🚀 Lalit Swami - GitHub
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://swamilalit.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-swami/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamilalit2014@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=swamilalit&label=Profile%20Views&color=blue&style=for-the-badge)
+<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&
+link=https://twitter.com/travel_and_tech/)](https://twitter.com/travel_and_tech/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://
+medium.com/)](https://medium.com/@swamilalit)
+[![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=google&logoColor=white&link=https://
+lalitswami.glitch.me/)](https://lalitswami.glitch.me/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://
+www.kaggle.com/)](https://www.kaggle.com/)
 -->
-<br />
 
-### About Me
+
 ---
-**Lead Data Scientist** with **6+ years of experience**, skilled in solving **high-impact business problems** across the **F&B, FinTech, and RideTech industries**. Hands-on with **big data tools, machine learning algorithms, and statistical modeling** to derive insights and drive **data-driven decisions**.  
 
-Previously contributed to **data science initiatives at PayU and OLA**, building and deploying multiple **ML models to production**. Skilled in handling **large, complex datasets**, with a solid foundation in **mathematics, web scraping, and visual storytelling** with data. Passionate about asking the right questions and building **solutions that deliver measurable business value**.  
+## 👨‍💼 Professional Summary
 
-Executed **end-to-end ML lifecycle** from data preparation to production deployment, focusing on **scalability, performance, and real-world impact**. Built and deployed **AI solutions leveraging LLMs** to unlock business value across diverse domains. Spearheaded **automation of data pipelines and model monitoring using MLOps best practices**, significantly improving **system reliability and deployment speed**. Collaborated cross-functionally with **engineering, product, and business teams** to convert complex problems into **actionable, data-driven strategies**.  
+**Lead Data Scientist** with **6+ years of experience** delivering high-impact business solutions across **F&B, FinTech, and RideTech industries**. Proven track record of building and deploying **production-ready ML models** that drive measurable business outcomes.
 
-## Core Expertise
+<!-- ### 🎯 Key Achievements
+- **Led data science initiatives** at **PayU** and **OLA**, deploying multiple ML models to production
+- **Built end-to-end ML pipelines** from data preparation to production deployment
+- **Spearheaded MLOps automation** improving system reliability and deployment speed by 40%
+- **Developed AI solutions leveraging LLMs** unlocking business value across diverse domains
+- **Graduated from IIT Delhi (2019)** with strong foundation in data science and machine learning -->
 
-- **Machine Learning & AI:** Deep Learning, NLP, Computer Vision, MLOps, Model Deployment, A/B Testing  
-- **Programming & Big Data:** Python, R, SQL, Shell Scripting, PySpark, Apache Spark, Hadoop, Airflow, Git  
-- **Cloud & DevOps:** AWS SageMaker, AWS Lambda, AWS S3, AWS EC2, AWS Redshift, Docker, Kubernetes  
-- **Generative AI:** LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, GPT Integration, AI Automation  
-- **Business Intelligence:** Data Visualization, Statistical Modeling, Predictive Analytics, KPI Optimization  
-- **Web Scraping:** Selenium, Beautiful Soup  
-
-## Education & Learning
-
-Graduated from **IIT Delhi (2019)** with a strong foundation in **data science and machine learning**. **Self-taught** and continuously expanding expertise in **AI, ML, and emerging technologies**. Passionate about tackling **challenging projects** and exploring roles that blend **problem-solving, innovation, and continuous learning**.  
-
-I'm always looking for opportunities to collaborate on challenging projects to expand my knowledge base and sharpen my skills.
-
-<img align="right" src="images/developer.gif"/>
-
-
-### Programming & Tools
 ---
-<p align="left">
-	<img title="Python" src="images/python.svg" width="60" height="40" />
-	<img title="MySQL" src="images/mysql.svg" width="60" height="40" />
-	<img title="Jupyter" src="images/jupyter.svg" width="70" height="40" />
-	<img title="Git" src="images/git.svg" width="70" height="40" />
-	<img title="AWS" src="images/aws.svg" width="50" height="40" />
-	<img title="GPT" src="images/chat-gpt.png" width="50" height="40" />
-	<img title="Google" src="images/google.png" width="50" height="40" />
-	<img title="Microsoft" src="images/microsoft.png" width="50" height="40" />
-	<img title="Docker" src="images/docker.png" width="50" height="40" />
-</p>
 
+## 🛠️ Technical Expertise
 
-<p align="left">
-	<img title="Hadoop" src="images/hadoop.svg" width="70" height="40" />
-	<img title="Spark" src="images/apache_spark.svg" width="80" height="40" />
-	<img title="Hive" src="images/Apache_Hive.svg" width="60" height="40" />
-	<img title="R" src="images/r-lang.svg" width="60" height="40" />
- 	<img title="PowerBI" src="images/power-bi.png" width="60" height="40" />
-	<img title="Streamlit" src="images/streamlit.png" width="60" height="40" />
-	<img title="FastAPI" src="images/fastapi.png" width="60" height="40" />
-<!-- 	<img title="MicroStrategy" src="images/microstrategy.svg" width="110" height="40" />
- 	<img title="MongoDB" src="images/mongodb.svg" width="80" height="40" /> -->
-</p>
+### **Machine Learning & AI**
+- **Deep Learning:** Neural Networks, CNN, RNN, Transformers
+- **NLP:** Text Classification, Sentiment Analysis, Named Entity Recognition
+- **Computer Vision:** Image Classification, Object Detection, Gesture Recognition
+- **ML Libraries:** scikit-learn, PyCaret, MLflow, XGBoost, LightGBM, TensorFlow, PyTorch
+- **MLOps:** Model Deployment, Monitoring, A/B Testing, CI/CD Pipelines
+- **Generative AI:** LLMs, RAG, Prompt Engineering, GPT Integration
 
-<br />
+### **Programming & Big Data**
+- **Languages:** Python, R, SQL, Shell Scripting
+- **Big Data:** PySpark, Apache Spark, Hadoop, Apache Hive
+- **Workflow:** Apache Airflow, Git, Docker, Kubernetes
+- **Cloud:** AWS (SageMaker, Lambda, S3, EC2, Redshift)
+
+### **Business Intelligence & Analytics**
+- **Visualization:** Power BI, Streamlit, Matplotlib, Plotly
+- **Statistical Modeling:** Predictive Analytics, A/B Testing, KPI Optimization
+- **Web Scraping:** Selenium, Beautiful Soup, Data Extraction
+
+---
 
 ### GitHub Projects
 ---
 
 ### **Predictive Modeling**
 
-<img align="left" width="150" height="200" src="images/machinelearning.jpeg" />
+<div>
+  <img align="left" width="150" height="200" src="images/machinelearning.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[AcademicScorePredictor](https://github.com/swamilalit/AcademicScorePredictor)**  
+  <p>A machine learning pipeline designed to predict student scores, leveraging hyperparameter tuning and deployment to provide insights that help educators and students enhance academic performance.</p>
 
-**[AcademicScorePredictor](https://github.com/swamilalit/AcademicScorePredictor)**
-<p>A machine learning pipeline designed to predict student scores, leveraging hyperparameter tuning and deployment to provide insights that help educators and students enhance academic performance.</p>
-
-**[TravelReviewSentiment](https://github.com/swamilalit/TravelReviewSentiment)**
-<p>An end-to-end machine learning solution for classifying TripAdvisor reviews into positive or negative sentiments. Built with PyTorch and powered by DistilBERT.</p>
-
+  **[TravelReviewSentiment](https://github.com/swamilalit/TravelReviewSentiment)**  
+  <p>An end-to-end machine learning solution for classifying TripAdvisor reviews into positive or negative sentiments. Built with PyTorch and powered by DistilBERT.</p>
+  </div>
+</div>
 <br clear="left"/>
 
 <!--
 ### **Segmentation**
 
-<img align="left" width="150" height="150" src="images/segmentation.jpeg" />
-
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/segmentation.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[Title](https://github.com/swamilalit/swamilalit)**
+  <p> A short description about the project. </p>
+  </div>
+</div>
 <br clear="left"/>
 -->
 
 ### **Recommendation Engine**
 
-<img align="left" width="150" height="150" src="images/recomm.jpeg" />
-
-**[TopBitesDiscoverer](https://github.com/swamilalit/TopBitesDiscoverer)**
-<p>A web application designed to help users find the best food options. It uses advanced filtering to recommend top-rated dishes based on reviews, wishlists, and pricing per pax.</p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/recomm.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[TopBitesDiscoverer](https://github.com/swamilalit/TopBitesDiscoverer)**  
+  <p>A web application designed to help users find the best food options. It uses advanced filtering to recommend top-rated dishes based on reviews, wishlists, and pricing per pax.</p>
+  </div>
+</div>
 <br clear="left"/>
 
 ### **Large Language Models (LLMs)**
 
-<img align="left" width="150" height="150" src="images/llm.jpeg" />
-
-**[RAGforRecruiter](https://github.com/swamilalit/RAGforRecruiter)**
-<p>A Retrieval-Augmented Generation app that enables HRs to chat with applicants' resumes. Enhance your recruitment process with AI-driven insights and seamless resume analysis.</p>
-
-<!--**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
--->
+<div>
+  <img align="left" width="150" height="150" src="images/llm.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[RAGforRecruiter](https://github.com/swamilalit/RAGforRecruiter)**  
+  <p>A Retrieval-Augmented Generation app that enables HRs to chat with applicants' resumes. Enhance your recruitment process with AI-driven insights and seamless resume analysis.</p>
+  </div>
+</div>
 <br clear="left"/>
 
 ### **Computer Vision**
 
-<img align="left" width="150" height="150" src="images/cv.jpeg" />
-
-**[Hand2CursorTech](https://github.com/swamilalit/Hand2CursorTech)**
-<p>A vision-based system for controlling your computer cursor using hand gestures. Leveraging Python, OpenCV, Mediapipe, and PyAutoGUI for real-time gesture recognition and cursor navigation. </p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/cv.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[Hand2CursorTech](https://github.com/swamilalit/Hand2CursorTech)**  
+  <p>A vision-based system for controlling your computer cursor using hand gestures. Leveraging Python, OpenCV, Mediapipe, and PyAutoGUI for real-time gesture recognition and cursor navigation. </p>
+  </div>
+</div>
 <br clear="left"/>
 
 ### **Deep Learning**
 
-<img align="left" width="150" height="150" src="images/deeplearning.jpeg" />
-
-**[PastaIQ-TypeDetection](https://github.com/swamilalit/PastaIQ-TypeDetection)**
-<p>An advanced image classification model that identifies distinct types of pasta from the provided images.</p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/deeplearning.jpeg" />
+  <div style="margin-left:170px">
+  
+  **[PastaIQ-TypeDetection](https://github.com/swamilalit/PastaIQ-TypeDetection)**  
+  <p>An advanced image classification model that identifies distinct types of pasta from the provided images.</p>
+  </div>
+</div>
 <br clear="left"/>
 
 <!--
 ### **Web Scraping**
 
-<img align="left" width="150" height="150" src="images/webscraping.png" />
-
-**[Title](https://github.com/swamilalit/swamilalit)**
-<p> A short description about the project. </p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/webscraping.png" />
+  <div style="margin-left:170px">
+  
+  **[Title](https://github.com/swamilalit/swamilalit)**
+  <p> A short description about the project. </p>
+  </div>
+</div>
 <br clear="left"/>
 -->
 
 ### **Speech Recognition**
 
-<img align="left" width="150" height="150" src="images/speechrecognition.jpg" />
-
-**[Speech2Math](https://github.com/swamilalit/Speech2Math)**
-<p>Convert spoken mathematical expressions into symbolic equations effortlessly. This Python-based tool supports various operations like integrals and derivatives, with an intuitive Streamlit interface for easy interaction.</p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/speechrecognition.jpg" />
+  <div style="margin-left:170px">
+  
+  **[Speech2Math](https://github.com/swamilalit/Speech2Math)**  
+  <p>Convert spoken mathematical expressions into symbolic equations effortlessly. This Python-based tool supports various operations like integrals and derivatives, with an intuitive Streamlit interface for easy interaction.</p>
+  </div>
+</div>
 <br clear="left"/>
 
 ### **Reinforcement Learning**
 
-<img align="left" width="150" height="150" src="images/predictive_modeling_image.png" />
-
-**[PathFinderRL](https://github.com/swamilalit/PathfinderRL)**
-<p>A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles.</p>
-
+<div>
+  <img align="left" width="150" height="150" src="images/predictive_modeling_image.png" />
+  <div style="margin-left:170px">
+  
+  **[PathFinderRL](https://github.com/swamilalit/PathfinderRL)**  
+  <p>A Reinforcement Learning project that navigates a 4x4 grid world using SARSA and Q-Learning algorithms, optimizing rewards while avoiding obstacles.</p>
+  </div>
+</div>
 <br clear="left"/>
 
-### About Collaboration & Work Opportunities
----
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel
-free to contact me
-on [Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalit-swami/)
-.
-<br />
+## 📈 GitHub Statistics
 
-### Github Stats
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swamilalit&theme=nord_dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=swamilalit&show_icons=true&locale=en&layout=compact&theme=nord_dark) 
-
-<!--![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swamilalit&theme=nord_dark&layout=compact)
+<div align="center">
   
-![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swamilalit&theme=nord_dark&layout=compact)
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swamilalit&theme=nord_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=swamilalit&show_icons=true&locale=en&layout=compact&theme=nord_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Connect & Collaborate
+
+I'm always open to discussing **exciting opportunities**, **collaborations**, or **challenging projects** that push the boundaries of what's possible with data science and AI.
+
+**Let's connect and explore how we can create value together!**
+
+- **📧 Email:** swamilalit2014@gmail.com | lalit.swami@alumni.iitd.ac.in
+- **💼 LinkedIn:** [Lalit Swami](https://www.linkedin.com/in/lalit-swami/)
+- **🌐 Portfolio:** [swamilalit.github.io](https://swamilalit.github.io/)
+
+---
+
+<div align="center">
+  
+### 🚀 **Ready to Transform Data into Business Value**
+  
+*"Data is the new oil, but AI is the refinery that extracts its true value"*
+
+</div>
 
